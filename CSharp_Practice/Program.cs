@@ -13,7 +13,7 @@ namespace CSharp_Practice
             Console.WriteLine("What is your favorite " + thing + "?");
             string favoriteThing = Console.ReadLine();
 
-            Console.WriteLine("just changing");
+            Console.WriteLine("just changin' -- not!");
             Console.WriteLine("My name is " + name + " and my favorite " + thing + " is " + favoriteThing + ".");
         }
     }
